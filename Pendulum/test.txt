@@ -3,3 +3,5 @@ This is a change to the test file.
 This is a second change.
 
 I should add some better math! We should actually integrate, not add!
+
+We need to add some better looking visuals too!
